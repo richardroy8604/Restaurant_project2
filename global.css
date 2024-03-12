@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-libre-baskerville: "Libre Baskerville";
+  --font-cormorant: Cormorant;
+  --font-mulish: Mulish;
+  --font-segoe-ui: "Segoe UI";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #081025;
+  --color-gray-200: rgba(0, 0, 0, 0.2);
+  --color-gray-300: rgba(0, 0, 0, 0.6);
+  --color-gray-400: rgba(2, 14, 45, 0.6);
+  --color-black: #000;
+  --color-yellow: #f3ea03;
+  --color-gainsboro-100: #dfdfdf;
+  --color-gainsboro-200: #dedede;
+  --color-gainsboro-300: #d9d9d9;
+  --color-red: #ec1010;
+  --color-dimgray: #676767;
+
+  /* Gaps */
+  --gap-27xl: 46px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-9xl: 28px;
+  --br-mini: 15px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}

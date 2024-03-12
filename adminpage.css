@@ -1,0 +1,341 @@
+.image-7-icon2 {
+    position: absolute;
+    top: 145px;
+    left: 0;
+    width: 1512px;
+    height: 837px;
+    object-fit: cover;
+  }
+  .group-child62,
+  .macbook-pro-14-4-child {
+    position: absolute;
+    top: 151px;
+    left: 0;
+    background-color: var(--color-gray-400);
+    width: 1512px;
+    height: 831px;
+  }
+  .group-child62 {
+    top: 0;
+    background-color: var(--color-gray-100);
+    height: 151px;
+  }
+  .group-child63,
+  .group-child64 {
+    position: absolute;
+    top: 0;
+    width: 87px;
+    height: 88px;
+  }
+  .group-child63 {
+    left: 0;
+    background-color: var(--color-red);
+  }
+  .group-child64 {
+    left: 87px;
+  }
+  .ra-wrapper2,
+  .ra10 {
+    position: absolute;
+    width: 151px;
+    height: 75px;
+  }
+  .ra10 {
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .ra-wrapper2 {
+    top: 3px;
+    left: 19px;
+  }
+  .rectangle-parent14 {
+    position: absolute;
+    top: 32px;
+    left: 50px;
+    width: 174px;
+    height: 88px;
+    text-align: left;
+    font-size: var(--font-size-45xl);
+    font-family: var(--font-montserrat);
+  }
+  .menu10 {
+    position: relative;
+    line-height: 126.5%;
+  }
+  .menu-parent7 {
+    position: absolute;
+    top: 74px;
+    left: 811px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-27xl);
+    color: var(--color-gainsboro-200);
+  }
+  .group-child66,
+  .group-child67 {
+    position: absolute;
+    top: 32px;
+    width: 87px;
+    height: 88px;
+  }
+  .group-child66 {
+    left: 50px;
+    background-color: var(--color-red);
+  }
+  .group-child67 {
+    left: 137px;
+  }
+  .ra11,
+  .reservation19 {
+    position: absolute;
+    display: inline-block;
+  }
+  .ra11 {
+    top: 35px;
+    left: 69px;
+    font-size: var(--font-size-45xl);
+    font-family: var(--font-montserrat);
+    text-align: left;
+    width: 151px;
+    height: 75px;
+  }
+  .reservation19 {
+    top: 74px;
+    left: 1294px;
+    line-height: 126.5%;
+    color: var(--color-black);
+    width: 176px;
+    height: 50px;
+  }
+  .home6,
+  .menu-parent8 {
+    position: absolute;
+    top: 0;
+  }
+  .menu-parent8 {
+    left: 109px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-27xl);
+  }
+  .home6 {
+    left: 0;
+    line-height: 126.5%;
+    color: var(--color-white);
+    display: inline-block;
+    width: 73px;
+    height: 22px;
+  }
+  .frame-parent4 {
+    position: absolute;
+    top: 74px;
+    left: 702px;
+    width: 550px;
+    height: 23px;
+    color: var(--color-gainsboro-200);
+  }
+  .rectangle-parent15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1512px;
+    height: 151px;
+  }
+  .menu12,
+  .reservation21 {
+    line-height: 126.5%;
+    cursor: pointer;
+  }
+  .reservation21 {
+    position: absolute;
+    top: 74px;
+    left: 1294px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 176px;
+    height: 50px;
+  }
+  .menu12 {
+    position: relative;
+  }
+  .home7,
+  .rectangle-parent13 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .home7 {
+    line-height: 126.5%;
+    color: var(--color-white);
+    display: inline-block;
+    width: 73px;
+    height: 22px;
+    cursor: pointer;
+  }
+  .rectangle-parent13 {
+    width: 1512px;
+    height: 151px;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-libre-baskerville);
+  }
+  .macbook-pro-14-4-item {
+    position: absolute;
+    top: 62px;
+    left: 1293px;
+    background-color: var(--color-yellow);
+    width: 177px;
+    height: 51px;
+  }
+  .menu13,
+  .reservation23 {
+    position: absolute;
+    font-family: var(--font-libre-baskerville);
+  }
+  .reservation23 {
+    top: 74px;
+    left: 1294px;
+    font-size: var(--font-size-lg);
+    line-height: 126.5%;
+    color: var(--color-black);
+    text-align: center;
+    display: inline-block;
+    width: 176px;
+    height: 50px;
+  }
+  .menu13 {
+    top: 196px;
+    left: 110px;
+    font-size: var(--font-size-21xl);
+    color: var(--color-gainsboro-100);
+  }
+  .macbook-pro-14-4-inner {
+    position: absolute;
+    top: 261px;
+    left: 94px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gainsboro-300);
+    width: 1355px;
+    height: 691px;
+    opacity: 0.6;
+  }
+  .macbook-pro-14-4-child1 {
+    position: absolute;
+    top: 299px;
+    left: 152px;
+    width: 281px;
+    height: 221px;
+    object-fit: cover;
+  }
+  .macbook-pro-14-4-child2,
+  .macbook-pro-14-4-child3,
+  .macbook-pro-14-4-child4 {
+    position: absolute;
+    top: 299px;
+    left: 461px;
+    width: 280px;
+    height: 221px;
+    object-fit: cover;
+  }
+  .macbook-pro-14-4-child3,
+  .macbook-pro-14-4-child4 {
+    left: 770px;
+  }
+  .macbook-pro-14-4-child4 {
+    left: 1078px;
+    width: 281px;
+  }
+  .bacon-pie,
+  .chicken-breast-with,
+  .croisant,
+  .ice-cream-pancake {
+    position: absolute;
+    top: 546px;
+    left: 152px;
+    font-weight: 600;
+    display: inline-block;
+    width: 281px;
+    height: 26px;
+  }
+  .bacon-pie,
+  .chicken-breast-with,
+  .croisant {
+    left: 461px;
+    width: 280px;
+    height: 78px;
+  }
+  .bacon-pie,
+  .chicken-breast-with {
+    left: 770px;
+    height: 26px;
+  }
+  .chicken-breast-with {
+    left: 1078px;
+    width: 281px;
+  }
+  .macbook-pro-14-4-child5 {
+    position: absolute;
+    top: 630px;
+    left: 152px;
+    width: 284px;
+    height: 237px;
+    object-fit: cover;
+  }
+  .macbook-pro-14-4-child6,
+  .macbook-pro-14-4-child7,
+  .macbook-pro-14-4-child8 {
+    position: absolute;
+    top: 624px;
+    left: 461px;
+    width: 280px;
+    height: 233px;
+    object-fit: cover;
+  }
+  .macbook-pro-14-4-child7,
+  .macbook-pro-14-4-child8 {
+    left: 770px;
+  }
+  .macbook-pro-14-4-child8 {
+    left: 1079px;
+  }
+  .bacon-with-cheese,
+  .bacon-with-ice,
+  .dolor-sit-amet,
+  .pancake-combo {
+    position: absolute;
+    top: 887px;
+    left: 152px;
+    font-weight: 600;
+    display: inline-block;
+    width: 280px;
+    height: 28px;
+  }
+  .bacon-with-ice,
+  .dolor-sit-amet,
+  .pancake-combo {
+    left: 461px;
+  }
+  .bacon-with-ice,
+  .dolor-sit-amet {
+    left: 770px;
+  }
+  .bacon-with-ice {
+    left: 1079px;
+  }
+  .macbook-pro-14-4 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-cormorant);
+  }
+  

@@ -1,0 +1,522 @@
+.image-7-icon1 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  width: 1512px;
+  height: 837px;
+  object-fit: cover;
+}
+.group-child29,
+.macbook-pro-14-5-child {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 1512px;
+  height: 831px;
+}
+
+.group-child29 {
+  top: 0;
+  background-color: var(--color-gray-100);
+  height: 151px;
+}
+.group-child30,
+.group-child31 {
+  position: absolute;
+  top: 0;
+  width: 87px;
+  height: 88px;
+}
+.group-child30 {
+  left: 0;
+  background-color: var(--color-red);
+}
+.group-child31 {
+  left: 87px;
+}
+.ra-frame,
+.ra5 {
+  position: absolute;
+  width: 151px;
+  height: 75px;
+}
+.ra5 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.ra-frame {
+  top: 3px;
+  left: 19px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 32px;
+  left: 50px;
+  width: 174px;
+  height: 88px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-montserrat);
+}
+.menu5 {
+  position: relative;
+  line-height: 126.5%;
+}
+.menu-parent2 {
+  position: absolute;
+  top: 74px;
+  left: 811px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+  color: var(--color-gainsboro-200);
+}
+.group-child33,
+.group-child34 {
+  position: absolute;
+  top: 32px;
+  width: 87px;
+  height: 88px;
+}
+.group-child33 {
+  left: 50px;
+  background-color: var(--color-red);
+}
+.group-child34 {
+  left: 137px;
+}
+.ra6,
+.reservation10 {
+  position: absolute;
+  display: inline-block;
+}
+.ra6 {
+  top: 35px;
+  left: 69px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-montserrat);
+  text-align: left;
+  width: 151px;
+  height: 75px;
+}
+.reservation10 {
+  top: 74px;
+  left: 1294px;
+  line-height: 126.5%;
+  color: var(--color-black);
+  width: 176px;
+  height: 50px;
+}
+.home3,
+.menu-parent3 {
+  position: absolute;
+  top: 0;
+}
+.menu-parent3 {
+  left: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.home3 {
+  left: 0;
+  line-height: 126.5%;
+  color: var(--color-white);
+  display: inline-block;
+  width: 73px;
+  height: 22px;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 74px;
+  left: 930px;
+  width: 320px;
+  height: 23px;
+  color: var(--color-gainsboro-200);
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 151px;
+}
+.menu9,
+.reservation15 {
+  line-height: 126.5%;
+  cursor: pointer;
+}
+.reservation15 {
+  position: absolute;
+  top: 74px;
+  left: 1294px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 176px;
+  height: 50px;
+}
+.menu9 {
+  position: relative;
+}
+.home5,
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-white);
+}
+.home5 {
+  line-height: 126.5%;
+  display: inline-block;
+  width: 73px;
+  height: 22px;
+  cursor: pointer;
+}
+.rectangle-parent5 {
+  width: 1512px;
+  height: 151px;
+  font-size: var(--font-size-lg);
+}
+.macbook-pro-14-5-item {
+  position: absolute;
+  top: 62px;
+  left: 1293px;
+  background-color: var(--color-yellow);
+  width: 177px;
+  height: 51px;
+}
+.reservation17 {
+  position: absolute;
+  top: 74px;
+  left: 1294px;
+  font-size: var(--font-size-lg);
+  line-height: 126.5%;
+  display: inline-block;
+  width: 176px;
+  height: 50px;
+}
+.table-booking1 {
+  position: absolute;
+  top: 196px;
+  left: 110px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gainsboro-100);
+  text-align: left;
+}
+.group-child47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 771px;
+  height: 578px;
+  mix-blend-mode: normal;
+}
+.table-for-21,
+.table-for-41,
+.table-for-61,
+.table-for-81 {
+  position: absolute;
+  top: 75px;
+  left: 74px;
+  font-weight: 500;
+  display: inline-block;
+  width: 450px;
+  height: 57px;
+}
+.table-for-41,
+.table-for-61,
+.table-for-81 {
+  top: 202px;
+  width: 416px;
+}
+.table-for-61,
+.table-for-81 {
+  top: 329px;
+}
+.table-for-81 {
+  top: 456px;
+  width: 406px;
+}
+.group-child48,
+.group-child49,
+.group-child50 {
+  position: absolute;
+  top: 202px;
+  left: 614px;
+  width: 48px;
+  height: 41px;
+}
+.group-child49,
+.group-child50 {
+  left: 675px;
+}
+.group-child50 {
+  left: 553px;
+}
+.group-child51,
+.group-child52,
+.group-child53 {
+  position: absolute;
+  top: 75px;
+  left: 614px;
+  width: 48px;
+  height: 41px;
+}
+.group-child52,
+.group-child53 {
+  left: 675px;
+}
+.group-child53 {
+  left: 553px;
+}
+.group-child54,
+.group-child55,
+.group-child56 {
+  position: absolute;
+  top: 329px;
+  left: 614px;
+  width: 48px;
+  height: 41px;
+}
+.group-child55,
+.group-child56 {
+  left: 675px;
+}
+.group-child56 {
+  left: 553px;
+}
+.group-child57,
+.group-child58,
+.group-child59 {
+  position: absolute;
+  top: 456px;
+  left: 614px;
+  width: 48px;
+  height: 41px;
+}
+.group-child58,
+.group-child59 {
+  left: 675px;
+}
+.group-child59 {
+  left: 553px;
+}
+.div12,
+.div13,
+.div14,
+.div15 {
+  position: absolute;
+  top: 81px;
+  left: 624px;
+  font-weight: 500;
+  display: inline-block;
+  width: 38px;
+  height: 32px;
+}
+.div13,
+.div14,
+.div15 {
+  top: 208px;
+  width: 35px;
+  height: 30px;
+}
+.div14,
+.div15 {
+  top: 335px;
+  left: 621px;
+  height: 32px;
+}
+.div15 {
+  top: 463px;
+  left: 622px;
+  width: 34px;
+  height: 34px;
+}
+.span4 {
+  font-size: var(--font-size-17xl);
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  position: absolute;
+  top: 75px;
+  left: 557px;
+  font-weight: 500;
+  display: inline-block;
+  width: 39px;
+  height: 37px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 197px;
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 326px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 451px;
+}
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 81px;
+  left: 691px;
+}
+.div21,
+.div22,
+.div23 {
+  top: 209px;
+}
+.div22,
+.div23 {
+  top: 335px;
+}
+.div23 {
+  top: 463px;
+}
+.vector-container {
+  position: absolute;
+  top: 333px;
+  left: 94px;
+  width: 500px;
+  height: 578px;
+  text-align: left;
+  font-family: var(--font-montserrat);
+}
+.group-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 532px;
+  height: 277px;
+  mix-blend-mode: normal;
+}
+.price-10001,
+.your-subtotal1 {
+  position: absolute;
+  top: 46px;
+  left: 52px;
+  display: inline-block;
+  width: 471px;
+  height: 83px;
+}
+.price-10001 {
+  top: 106px;
+  font-weight: 500;
+  width: 206px;
+  height: 50px;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 345px;
+  left: 938px;
+  width: 532px;
+  height: 277px;
+  text-align: left;
+  font-family: var(--font-montserrat);
+}
+.group-child61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-yellow);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 436px;
+  height: 71px;
+}
+.confirm-booking1 {
+  position: absolute;
+  top: 80px;
+  left: 260px;
+  font-weight: 500;
+  display: inline-block;
+  width: 220px;
+  height: 50px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 508px;
+  left: 998px;
+  width: 436px;
+  height: 85px;
+  cursor: pointer;
+  font-family: var(--font-montserrat);
+}
+.macbook-pro-14-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}
+.input-container {
+  top: 0%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.input-box {
+  /* Set common styles for all input boxes */
+  top: 0%;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box; /* Include padding and border in width calculation */
+  font-size: 16px;
+}
+.input-box[type="date"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+  /* Additional styling for date input */
+  /* Replace with your preferred styles */
+  background-color: #fff; /* Background color */
+  color: #838282; /* Text color */
+  /* You can add more specific styles as needed */
+}
+
+.ac label,
+.seat label {
+  color: #FFF; /* Change to your desired color */
+}
+
+
